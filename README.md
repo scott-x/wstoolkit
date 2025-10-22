@@ -13,7 +13,6 @@ import (
 	"net/http"
 	"time"
 
-	// 假设你的模块路径是 github.com/yourname/wstoolkit
 	"github.com/scott-x/wstoolkit" 
 )
 

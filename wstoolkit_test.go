@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/scott-x/wstoolkit" // 确保替换为您的实际模块路径
+	"github.com/scott-x/wstoolkit"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
